@@ -17,6 +17,6 @@ jobs:
         ado_organization: 'evandroaraujomck'
         ado_project: 'teste_Git'
         ado_wit: 'Pull Request' 
-        ado_new_state: 'To Do'
-        ado_active_state: 'Doing'
-        ado_close_state: 'Done'
+        ado_new_state: 'New'
+        ado_active_state: 'Active'
+        ado_close_state: 'Closed
